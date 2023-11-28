@@ -16,5 +16,20 @@ There are five different HTTP status code categories (or classes). Each one repr
 - **5XX** — Server error codes: The client made a valid request, but the server failed to complete the request. 
 
 
+#### Commonly used status codes
+- 200 - OK
+- 201 - Created
+- 301 - Moved Permanently
+- 400 - Bad Request
+- 401 - Unauthorized
+- 403 - Forbidden
+- 404 - Not Found
+- 414 - URI too long
+- 422 Unprocesssable Content
+- 500 - Internal Server Error
+- 501 - Not Implemented
+- 503 - Service Unavailable
+- 504 - Gateway Timeout
+
 #### Reference:
 - https://www.semrush.com/blog/http-status-codes/?kw=&cmp=AA_SRCH_DSA_Blog_New_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=676513946328&kwid=dsa-2185834089056&cmpid=20486710035&agpid=156020864842&BU=Core&extid=105279941176&adpos=&gad_source=1&gclid=CjwKCAiA9ourBhAVEiwA3L5RFiYd82XwDUA0cab-X1ZpdutXtubqYGWYbA3jQpNfIo4DgrQWNp609BoCbagQAvD_BwE
