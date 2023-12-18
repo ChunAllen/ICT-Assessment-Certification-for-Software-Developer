@@ -40,3 +40,6 @@ From the book there are 23 design patterns which can be classified in three cate
   - Template method
   - Visitor
 
+
+**Reference:**
+https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
